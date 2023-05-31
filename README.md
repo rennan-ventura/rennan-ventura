@@ -1,7 +1,7 @@
 ### Hi, I'm Rennan ventura 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennan-ventura&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rennan-ventura&show_icons=true&theme=radical&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennan-ventura&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
